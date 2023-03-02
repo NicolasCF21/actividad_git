@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cedula 1002314097
+=======
+Documento 1002314097
+>>>>>>> pruebas
